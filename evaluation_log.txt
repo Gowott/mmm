@@ -1,0 +1,3 @@
+[12-03-2024 13:13:02] INFO: Namespace(data_path='../data/test.json', dim=768, doc_embed_path=None, img_embed_path=None, out_path='./', qrel_path=None, query_embed_path='./checkpoint//query_embedding.pkl', topN=100)
+[12-03-2024 13:13:37] INFO: Namespace(data_path='../data/test.json', dim=768, doc_embed_path=None, img_embed_path=None, out_path='./', qrel_path=None, query_embed_path='./checkpoint//query_embedding.pkl', topN=100)
+[12-03-2024 13:14:14] INFO: Namespace(data_path='../data/test.json', dim=768, doc_embed_path=None, img_embed_path=None, out_path='./', qrel_path=None, query_embed_path='./checkpoint//query_embedding.pkl', topN=100)
